@@ -12,7 +12,7 @@ Some USB devices (keyboards, controllers, etc) may interfere with controller inp
 - Disconnecting the Razer keyboard resolves the issue.
 - Restarting the game or disabling overlays does not resolve the problem.
 
-## 🛠️ What This Tool Does
+## What This Tool Does
 
 The launcher automates a temporary keyboard-disable workaround:
 
@@ -42,7 +42,7 @@ When the game closes, the launcher should attempt to restore the keyboard.
 
 
 
-## 📌 Disclaimer
+## Disclaimer
 
 This is an unofficial, community-created workaround and is not affiliated with Konami, Microsoft, or Razer.
 
