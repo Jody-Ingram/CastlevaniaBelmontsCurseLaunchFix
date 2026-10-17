@@ -2,7 +2,7 @@
 
 A PowerShell-based launcher for **Castlevania: Belmont's Curse** on PC through the Xbox App or Steam, designed to work around an issue where menus continuously scroll upward when certain Razer keyboards are connected.
 
-## 🎮 The Problem
+## ISSUE
 
 Some USB devices (keyboards, controllers, etc) may interfere with controller input in Castlevania: Belmont's Curse.
 
