@@ -30,7 +30,7 @@ No permanent keyboard configuration changes are intended.
 
 1. Download or clone this repository.
 2. Place both launcher scripts in the same directory.
-3. Open `Castlevania-Keyboard-Fix.ps1` and verify the keyboard instance IDs.
+3. Open `Castlevania-Menu-Fix.ps1` and verify the keyboard instance IDs.
 4. Right-click `Castlevania-Launcher.cmd`.
 5. Select **Run as administrator**.
 6. Approve the Windows UAC prompt.
